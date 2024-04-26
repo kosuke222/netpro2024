@@ -7,4 +7,3 @@ public class Hello {
 		System.out.print("B");
 		System.out.print("C");
 	}
-}
