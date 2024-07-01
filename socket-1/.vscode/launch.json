@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalendarClientGUI",
+            "request": "launch",
+            "mainClass": "CalendarClientGUI",
+            "projectName": "socket-1_c5d5ebcd"
+        },
+        {
+            "type": "java",
+            "name": "CalendarServerGUI",
+            "request": "launch",
+            "mainClass": "CalendarServerGUI",
+            "projectName": "socket-1_c5d5ebcd"
+        },
+        {
+            "type": "java",
+            "name": "CalendarClient",
+            "request": "launch",
+            "mainClass": "CalendarClient",
+            "projectName": "socket-1_c5d5ebcd"
+        },
+        {
+            "type": "java",
+            "name": "CalendarServer",
+            "request": "launch",
+            "mainClass": "CalendarServer",
+            "projectName": "socket-1_c5d5ebcd"
+        },
+        {
+            "type": "java",
             "name": "XmasTCPClient",
             "request": "launch",
             "mainClass": "XmasTCPClient",
